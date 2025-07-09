@@ -1,5 +1,5 @@
 <h1 align="left">Hi, i'm octo.</h1>
-<h3 align="left">Welcome to my little world./h3>
+<h3 align="left">Welcome to my little world.
 
 - 🛠️ I'm working on **my Linux rice (lol)**
 
