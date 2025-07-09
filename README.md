@@ -1,7 +1,7 @@
 <h1 align="left">Hi, i'm octo.</h1>
 <h3 align="left">Welcome to my little world.
 
-- 🛠️ I'm working on **my Linux rice (lol)**
+- 🛠️ I'm working on **nothing, fr (lol)**
 
 - 📚 I’m currently learning **Python and Linux (looking to get into elixir)**
 
