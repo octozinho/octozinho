@@ -1,13 +1,12 @@
 <h1 align="center">Hi, i'm octo.</h1>
-<h3 align="center">passionate for tech and stuff</h3>
+<h3 align="center">Welcome to my little world./h3>
 
 - 🛠️ I'm working on **my Linux rice (lol)**
 
 - 📚 I’m currently learning **Python and Linux (looking to get into elixir)**
 
-- ⚡ Fun fact **I started diving on tech when i was 10**
+- [⚡ Fun fact **I started diving on tech when i was 10**]
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
