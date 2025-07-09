@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning **Python and Linux (looking to get into elixir)**
 
-- [⚡ Fun fact **I started diving on tech when i was 10**]
+- ⚡ Fun fact: **I started diving on tech when i was 10**
 
 <p align="left">
 </p>
