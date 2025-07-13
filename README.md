@@ -1,7 +1,7 @@
 <h1 align="left">Hi, i'm octo.</h1>
 <h3 align="left">Welcome to my little world.
 
-- 🛠️ I'm working on **Avura** (personal project; @avura-core)
+- 🛠️ I'm working on **AvuraCore** (personal project)
 
 - 📚 I’m currently learning **Rust**
 
