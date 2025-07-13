@@ -5,8 +5,6 @@
 
 - 📚 I’m currently learning **Rust**
 
-- ⚡ Fun fact: **I started diving on tech when i was 10**
-
 <p align="left">
 </p>
 
