@@ -1,9 +1,9 @@
 <h1 align="left">Hi, i'm octo.</h1>
 <h3 align="left">Welcome to my little world.
 
-- 🛠️ I'm working on **nothing right now (lol)**
+- 🛠️ I'm working on **Avura** (personal project; @avura-core)
 
-- 📚 I’m currently learning **Python and Linux (looking to get into elixir)**
+- 📚 I’m currently learning **Rust**
 
 - ⚡ Fun fact: **I started diving on tech when i was 10**
 
