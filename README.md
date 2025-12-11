@@ -12,3 +12,4 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <h3 align="left">(there is literally nothing here, you can go away now)
+<h3 align="left">(also, im NOT a professional, just a tenaager who doesnt speak english properly)
